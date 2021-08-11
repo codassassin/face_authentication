@@ -1,6 +1,8 @@
 # face_authentication
 This is a program that can be used to authenticate face using OpenCV.
 
+### latest version of this application available at https://github.com/codassassin/face_authentication_v2.0
+
 ## Requirements
 * Install all the requirements given in requirements.txt
 ```
