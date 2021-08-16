@@ -25,3 +25,9 @@ https://user-images.githubusercontent.com/55107082/121300295-463f1400-c914-11eb-
 #### 2. Duplicate entries are not allowed even with different name
 
 https://user-images.githubusercontent.com/55107082/121300408-6e2e7780-c914-11eb-88f3-27cae87d7a69.mp4
+
+### Disclaimer !!
+
+> This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for
+> illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume no
+> liability and are not responsible for any misuse or damage caused by this tool and software in general.
